@@ -3,13 +3,11 @@
 - Email: franciscovalgar07@gmail.com
 
 ## Actividad 1
-- Programa 1
-- Programa 2
-- Programa 3
+- p01_HolaMundo
+- p02_AreaCirculo
+- p03_AreaTriangulo
 
 ## Actividad 2
-- Programa 4
-- Programa 5
+
 
 ## Actividad 3
-- 
