@@ -7,13 +7,14 @@ public class p04_PagaTrabajador {
         String nombre;
         int horas;
         double paga, tasa, impuesto, pagabruta, paganeta;
-        Scanner obj = new Scanner(System.in);
+        try (Scanner obj = new Scanner(System.in)) {
+            System.out.println("\nCalculando la paga de un trabajador\n");
+            //Entrada
+            System.out.println("Nombre del Trabajador : "); nombre = obj.nextLine();
+            System.out.println("Horas trabajadas      : "); horas  = obj.nextInt();
+            System.out.println("Paga por hora         : "); paga   = obj.nextFloat();
+        }
 
-        System.out.println("\nCalculando la paga de un trabajador\n");
-        //Entrada
-        System.out.println("Nombre del Trabajador : "); nombre = obj.nextLine();
-        System.out.println("Horas trabajadas      : "); horas  = obj.nextInt();
-        System.out.println("Paga por hora         : "); paga   = obj.nextFloat();
         tasa = 0.03;
         //Proceso
         pagabruta = horas * paga;
