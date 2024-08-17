@@ -13,6 +13,7 @@
 - p06_PromedioCalificaciones
 - p07_OperadoresAsignacion
 - p08_FuncionesTrigonometricas
+- p09_DividirEnCifras
 
 
 ## Actividad 3
