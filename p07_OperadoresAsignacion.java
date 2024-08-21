@@ -16,6 +16,8 @@ public class p07_OperadoresAsignacion {
         System.out.printf("Multiplicar por 15  : %.2f\n", num*=15);
         System.out.printf("Dividir entre 4  : %.2f\n", num/=4);
         System.out.printf("Decrementar 1  : %.2f\n", --num);
+
+
     
 }
     
