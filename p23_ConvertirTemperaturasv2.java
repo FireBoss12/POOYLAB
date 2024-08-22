@@ -12,6 +12,7 @@ public class p23_ConvertirTemperaturasv2 {
         // Limpiar la consola 
         System.out.print("\033[H\033[2J");
         System.out.flush();
+        
         System.out.println("Convertir Temperaturas : ");
         System.out.println(" [ 1 ] Fahrenheit a Centígrados : ");
         System.out.println(" [ 2 ] Centígrados a Fahrenheit : ");
