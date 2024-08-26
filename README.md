@@ -37,7 +37,13 @@
 - p24_PagaTrabajadorv2
 
 ## Actividad 6
--p25_EstacionesAño
--p26_TipoAngulo
--p27_AceptarEstudiante
--p28_LeyDeNewton
+- p25_EstacionesAño
+- p26_TipoAngulo
+- p27_AceptarEstudiante
+- p28_LeyDeNewton
+
+## Actividad 7
+- p29_Calculadora
+- p30_DiaSemana
+- p31_NumerosRomanos
+- p32_PagoEstacionamiento
