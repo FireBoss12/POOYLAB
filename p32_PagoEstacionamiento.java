@@ -28,7 +28,7 @@ public class p32_PagoEstacionamiento {
             case 'E' : imp = 0.10f; break;
             case 'O' : imp = 0.20f; break;
             default:
-            System.out.println();
+            System.out.println("No existe ese lugar");
                 break;
         }
         System.out.print("Cuanto pagaste ? "); pago = obj.nextFloat();
