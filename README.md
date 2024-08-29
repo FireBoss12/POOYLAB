@@ -47,3 +47,18 @@
 - p30_DiaSemana
 - p31_NumerosRomanos
 - p32_PagoEstacionamiento
+
+## Actividad 8 
+- p33_NumerosConsecutivos
+- p34_NumeroMayor
+- p35_ContinentesMundo
+- p36_ComprarPizza
+- p37_CalculoNotas
+- p38_AceptarEstudianteversion2
+
+## Actividad 9
+- p39_Numeros1a100
+- p40_Numeros100a1
+- p41_ProcesaCalificaciones
+- p42_TablaMultiplicar
+- p43_ConteoNumeros
