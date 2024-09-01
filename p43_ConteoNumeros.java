@@ -9,8 +9,7 @@ public class p43_ConteoNumeros {
         Scanner obj = new Scanner(System.in);
 
         // Limpiar la consola
-            System.out.print("\033[H\033[2J");
-            System.out.flush();
+            System.out.print("\033[H\033[2J"); System.out.flush();
 
         System.out.println("Cuenta y suma los numeros introducidos por el usuario\n");
 
