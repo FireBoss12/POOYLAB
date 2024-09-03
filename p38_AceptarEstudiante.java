@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class AceptarEstudiante {
+public class p38_AceptarEstudiante {
     public static void main(String[] args) {
         String nombre;
         char sexo;
