@@ -87,3 +87,9 @@
 - p58_Piramide
 - p59_FactorialNumeros
 - p60_SumaTerminos
+
+## Actvidad 14
+- p61_SecuenciaNumeros1
+- p62_SecuenciaNumeros2
+- p63_SumaTerminos1
+- p64_SumaTerminos2
