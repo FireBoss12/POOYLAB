@@ -2,6 +2,9 @@
 - Nombre: Francisco Valdez García
 - Email: franciscovalgar07@gmail.com
 
+## Examen Parcial
+- pe01_PrimerExamenParcial
+
 ## Actividad 1
 - p01_HolaMundo
 - p02_AreaCirculo
