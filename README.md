@@ -99,3 +99,9 @@
 
 ## Actividad 15
 - p65_SistemaPapeleria
+
+## Actividad 16
+- p66_PromedioNumeros
+- p67_ConversionTemperaturas
+- p68_SumaRango
+- p69_TablaMultiplicar

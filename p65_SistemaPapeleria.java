@@ -72,5 +72,6 @@ public class p65_SistemaPapeleria {
         } else { 
             System.out.println("La venta fué : Venta superada");
         } 
+        obj.close();
     }
 }
