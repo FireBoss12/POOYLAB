@@ -159,3 +159,11 @@
 ## Actividad 25
 - p104_PuntoCirculo
 - p105_PuntoTriangulo
+
+## Actividad 26
+- p106_Persona
+- p107_Forma
+
+## Actividad 27
+- p108_Vehiculo
+- p109_FormaV2
