@@ -167,3 +167,6 @@
 ## Actividad 27
 - p108_Vehiculo
 - p109_FormaV2
+
+## Actividad 28
+- p110_CuentaBancariaV1
