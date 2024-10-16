@@ -170,3 +170,9 @@
 
 ## Actividad 28
 - p110_CuentaBancariaV1
+
+## Actividad 29
+- p111_CuentaBancariaV2
+
+## Actividad 30
+- 112_ControlVentas
