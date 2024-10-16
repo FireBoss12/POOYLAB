@@ -176,3 +176,6 @@
 
 ## Actividad 30
 - 112_ControlVentas
+
+## Actividad 31
+- 113_SegundoExamenParcial
