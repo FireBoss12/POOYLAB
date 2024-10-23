@@ -179,3 +179,9 @@
 
 ## Actividad 31
 - 113_SegundoExamenParcial
+
+## Actividad 32
+- p114_Animal
+- p115_Telefono
+- p116_Juego
+- p117_FiguraGeometrica
