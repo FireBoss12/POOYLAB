@@ -187,6 +187,8 @@
 - p117_FiguraGeometrica
 
 ## Actividad 33
+- p118_Calculadora
+- p119_Organismo
 
 ## Actividad 34
 - p120_Vehiculo
