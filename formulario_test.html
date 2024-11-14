@@ -1,0 +1,47 @@
+<html>
+ <head>
+  <title>Formulario test</title>
+  <script>
+    function toggleOtroInput() {
+      var otroRadio = document.getElementById('otro');
+      var otroInput = document.getElementById('otroInput');
+      if (otroRadio.checked) {
+        otroInput.style.display = 'block';
+        otroInput.name = 'genero_especifico';
+      } else {
+        otroInput.style.display = 'none';
+        otroInput.name = '';
+      }
+    }
+  </script>
+  <style>
+    #otroInput {
+      display: none;
+    }
+  </style>
+ </head>
+ <body>
+
+  <h1>Formulario Test</h1>
+  <form name="formulario" id="formulario" action="procesa.php" method="get">
+      <label for="nombre">Nombre:</label>  
+      <input type="text" name="nombre" id="nombre" title="Coloca tu nombre"
+             value="" size="40" maxlength="80" required /><br/>
+      <label for="apellidos">Apellidos:</label>  
+      <input type="text" name="apellidos" id="apellidos" required/><br/>
+      <label for="password">Password:</label>  
+      <input type="password" maxlength="20" size="10" id="pass" name="pass" />
+      <label for="fechanac">Fecha de nacimiento:</label>  
+      <input type="date" name="fechanac" id="fechanac" required />
+      <br/>
+      <label for="genero">Genero:</label>
+      <input type="radio" name="genero" id="generoMujer" value="M" required onclick="toggleOtroInput()"/>Mujer 
+      <input type="radio" name="genero" id="generoHombre" value="H" required onclick="toggleOtroInput()"/>Hombre
+      <input type="radio" name="genero" id="otro" value="O" onclick="toggleOtroInput()"/>Otro<br/>
+      <input type="text" id="otroInput" placeholder="Especificar genero" /><br/>
+
+      <input type="submit" value="Enviar" />
+      <input type="reset" value="Limpiar" />
+  </form>
+ </body>
+</html>

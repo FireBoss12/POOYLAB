@@ -224,3 +224,6 @@
 - p140_HolaMundoGUI
 - p141_AreaTrianguloGUI
 - p142_LeyDeNewtonGUI
+
+# Tercer Examen Parcial
+- p147_TercerExamenParcial
