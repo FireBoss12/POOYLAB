@@ -225,5 +225,15 @@
 - p141_AreaTrianguloGUI
 - p142_LeyDeNewtonGUI
 
-# Tercer Examen Parcial
+## Actividad 40
+- p143_PagaTrabajador
+- p144_Temperaturas
+
+## Actividad 41
+- p145_EstudiantesGUI_V1
+
+## Actividad 42
+- p146_EstudiantesGUI_V2
+
+## Tercer Examen Parcial
 - p147_TercerExamenParcial
